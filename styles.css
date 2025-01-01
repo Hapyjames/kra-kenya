@@ -142,9 +142,10 @@
     
     header{
         background-color: var(--yangb1);
-        color: green;
+        color: white;
         display: flex;
         height: 40px;
+        width:100%;
     
     }
     
@@ -159,6 +160,7 @@
         align-content: center;
         justify-content: center;
         padding-left: 70px;
+        font-size:16px
     }
     
     .yell{
@@ -174,8 +176,8 @@
     }
     
     .yell img{
-        width: 115px;
-        height: 203px;
+        width: 130px;
+        
         border-radius: 20px;
     }
     .yell h1{
@@ -192,6 +194,7 @@
         margin-left: 35px;
         width: 140px;
         padding-left: 7px;
+        font-size:14px;
     
     }
     .yoh h2{
@@ -206,15 +209,17 @@
         border-width: 2px;
         margin-left: 245px;
         width: 140px;
+        font-size:12px;
         padding-left: 7px;
     
     
     }
     
     .ra{
-        height: 105px;
+        height: 300px;
         display: flex;
         color: white;
+        font-size:14px;
        
     }
     
