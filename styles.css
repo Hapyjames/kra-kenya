@@ -176,7 +176,7 @@
     }
     
     .yell img{
-        height: 650px;
+        height: 450px;
         margin-top:15px;
         border-radius: 20px;
     }
@@ -192,9 +192,9 @@
         border-radius: 14px;
         border-width: 2px;
         margin-left: 35px;
-        width: 150px;
+        width: 300px;
         padding-left: 7px;
-        font-size:22px;
+        font-size:24px;
     
     }
     .yoh h2{
@@ -203,13 +203,13 @@
         align-items: center;
         justify-content: center;
         align-content: center;
-        height: 200px;
+        height: 150px;
         color: chartreuse;
         border-radius: 14px;
         border-width: 2px;
         margin-left: 245px;
-        width: 150px;
-        font-size:18px;
+        width: 200px;
+        font-size:20px;
         padding-left: 10px;
     
     
