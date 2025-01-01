@@ -136,11 +136,13 @@
         --yangb5: #C4B6AB;
         --yangb6: #EADDD3;
         background-color: var(--yangb2);
+        max-width:400px;
+        max-height:1200px;
     }
     
     header{
         background-color: var(--yangb1);
-        color: white;
+        color: green;
         display: flex;
         height: 40px;
     
