@@ -144,13 +144,14 @@
         background-color: var(--yangb1);
         color: white;
         display: flex;
-        height: 40px;
+        height: 100px;
         width:100%;
+        position:fixed;
     
     }
     
     header img{
-        height: 40px;
+        height: 100px;
         place-content: left;
         border-radius: 20px;
         
@@ -160,12 +161,12 @@
         align-content: center;
         justify-content: center;
         padding-left: 70px;
-        font-size:16px
+        font-size:10px
     }
     
     .yell{
-        width: 70;
-        margin-top: 20px;
+        width: 1000;
+        margin-top: 30px;
         display: flex;
         row-gap: 20px;
         color: white;
@@ -176,7 +177,7 @@
     }
     
     .yell img{
-        width: 130px;
+        width: 150px;
         
         border-radius: 20px;
     }
@@ -187,14 +188,14 @@
         align-items: center;
         justify-content: center;
         align-content: center;
-        height: 105px;
+        height: 300px;
         color: chartreuse;
         border-radius: 14px;
         border-width: 2px;
         margin-left: 35px;
-        width: 140px;
+        width: 250px;
         padding-left: 7px;
-        font-size:14px;
+        font-size:10px;
     
     }
     .yoh h2{
@@ -203,23 +204,23 @@
         align-items: center;
         justify-content: center;
         align-content: center;
-        height: 63px;
+        height: 200px;
         color: chartreuse;
         border-radius: 14px;
         border-width: 2px;
         margin-left: 245px;
-        width: 140px;
-        font-size:12px;
+        width: 200px;
+        font-size:8px;
         padding-left: 7px;
     
     
     }
     
     .ra{
-        height: 300px;
+        height: 400px;
         display: flex;
         color: white;
-        font-size:14px;
+        font-size:10px;
        
     }
     
