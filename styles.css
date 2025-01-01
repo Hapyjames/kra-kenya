@@ -1,4 +1,4 @@
-@media(min-width: 450px){
+@media(min-width: 415px){
     body{
         --yangb1: #2D1E17;
         --yangb2: #523F31;
@@ -127,7 +127,7 @@
     
 }
 
-@media (max-width:449px){
+@media (max-width:414px){
     body{
         --yangb1: #2D1E17;
         --yangb2: #523F31;
