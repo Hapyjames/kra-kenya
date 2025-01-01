@@ -136,7 +136,6 @@
         --yangb5: #C4B6AB;
         --yangb6: #EADDD3;
         background-color: var(--yangb2);
-        max-width:400px;
         max-height:1200px;
     }
     
@@ -145,7 +144,7 @@
         color: white;
         display: flex;
         height: 100px;
-        width:100%;
+        width:415px;
         position:fixed;
     
     }
@@ -160,12 +159,12 @@
         align-items: center;
         align-content: center;
         justify-content: center;
-        padding-left: 70px;
-        font-size:10px
+        padding-left: 20px;
+        font-size:12px
     }
     
     .yell{
-        width: 1000;
+        width: 100;
         margin-top: 30px;
         display: flex;
         row-gap: 20px;
@@ -177,7 +176,7 @@
     }
     
     .yell img{
-        width: 150px;
+        width: 200px;
         
         border-radius: 20px;
     }
@@ -188,14 +187,14 @@
         align-items: center;
         justify-content: center;
         align-content: center;
-        height: 300px;
+        height: 400px;
         color: chartreuse;
         border-radius: 14px;
         border-width: 2px;
         margin-left: 35px;
-        width: 250px;
+        width: 210px;
         padding-left: 7px;
-        font-size:10px;
+        font-size:16px;
     
     }
     .yoh h2{
@@ -204,23 +203,23 @@
         align-items: center;
         justify-content: center;
         align-content: center;
-        height: 200px;
+        height: 300px;
         color: chartreuse;
         border-radius: 14px;
         border-width: 2px;
         margin-left: 245px;
         width: 200px;
-        font-size:8px;
+        font-size:12px;
         padding-left: 7px;
     
     
     }
     
     .ra{
-        height: 400px;
+        height: 350px;
         display: flex;
         color: white;
-        font-size:10px;
+        font-size:14px;
        
     }
     
