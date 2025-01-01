@@ -150,7 +150,7 @@
     }
     
     header img{
-        height: 100px;
+        height: 80px;
         place-content: left;
         border-radius: 20px;
         
@@ -166,7 +166,7 @@
     .yell{
         width: 100;
         margin-top: 50px;
-        display: flex;
+        display: block;
         row-gap: 20px;
         color: white;
         margin-left: 10px;
