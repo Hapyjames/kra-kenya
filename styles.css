@@ -215,8 +215,8 @@
     
     }
     .email-button {
-        background-color: purple;
-        color: var(--yangb1);
+        background-color: var(--yangb1);
+        color: purple;
         padding: 15px 32px;
         text-align: center;
         text-decoration: none;
@@ -228,6 +228,8 @@
         margin-left:150px;
         margin-top: 50px;
         margin-bottom:30px;
+        text-decoration: underline;
+        
         
     }
     
